@@ -1,38 +1,4 @@
-by                                   
-                         margin: 0;
-            color: #d7ccc8; /* ቀለል ያለ ቡናማ */
-        }
-
-        h2 {
-            font-size: 2.5em;
-            margin: 10px 0;
-            font-weight: normal;
-        }
-
-        p {
-            font-size: 1.2em;
-            margin-top: 20px;
-        }
-    </style>
-</head>
-<body>
-
-    <div class="container">
-        <div class="logo-area">
-            <!-- ፎቶህን ለማስገባት፡-
-                 1. ፎቶህን "furniture.jpg" ብለህ ስም ስጠው
-                 2. ከዚህ የHTML ፋይል ጋር በአንድ ፎልደር ውስጥ አስቀምጠው
-                 3. ከታች ያለውን የፓዝ መስመር አስተካክል -->
-            <img src="YOUR_IMAGE_PATH_HERE.jpg" alt="የአቦሌ ፈርኒቸር ማሳያ" class="furniture-pic">
-        </div>
-        
-        
-ይህ ስህተት (HTTP ERROR 400) አብዛኛውን ጊዜ የሚመጣው በስልክህ ፎቶዎችን ስትጭን ወይም ሴቭ ስታደርግ ኢንተርኔት ሲቋረጥ ወይም ገጹ ሲጨናነቅ ነው [Screenshot_20260709-180001.png]። ምንም አታስብ፣ በቀላሉ ማስተካከል ይቻላል!
-
-ይህን ለማስተካከል እነዚህን 3 ቀላል ደረጃዎች ተከተል፦
-asgbch
-
-    </style>
+   </style>
 </head>
 <body>
 
