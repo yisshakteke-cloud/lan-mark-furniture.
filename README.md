@@ -1170,35 +1170,6 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 });
 </script>
-<!-- ======================================================== -->
-<!-- አዲስ፡ የአስተያየት እና የኮከብ (5-Star Rating) መስጫ ክፍል -->
-<!-- ======================================================== -->
-<section id="user-feedback" class="feedback-section">
-    <div class="feedback-container">
-        <h2>እርስዎም አስተያየትዎን ያጋሩን (Leave a Review)</h2>
-        <p>የእርስዎ አስተያየት ለእኛ ትልቅ ዋጋ አለው። እባክዎ የ5 ኮከብ ደረጃ እና አጭር አስተያየት ይተውልን።</p>
-        
-        <form id="feedbackForm">
-            <!-- Star Rating System -->
-            <div class="rating-stars">
-                <span class="star" data-value="1">★</span>
-                <span class="star" data-value="2">★</span>
-                <span class="star" data-value="3">★</span>
-                <span class="star" data-value="4">★</span>
-                <span class="star" data-value="5">★</span>
-            </div>
-            <!-- Hidden input to store rating value -->
-            <input type="hidden" id="selectedRating" value="0">
-            
-            <!-- Input Fields -->
-            <input type="text" id="reviewerName" placeholder="የእርስዎ ስም (Your Name)" required>
-            <textarea id="reviewerComment" rows="4" placeholder="የእርስዎ አስተያየት (Your Comment...)" required></textarea>
-            
-            <button type="submit" class="submit-feedback-btn">አስተያየት አቅርብ / Submit Review</button>
-        </form>
-;
-    );
-
 
 </body>
 </html>
