@@ -683,11 +683,6 @@ footer {
     <button class="menu" id="menuBtn">☰</button>
 </header>
 
-<!-- Free Delivery Banner -->
-<div class="delivery-banner">
-    🚚 የላቀ አገልግሎት — ማንኛውንም እቃ ሲያዙ ያሉበት ድረስ ያለምንም ተጨማሪ ክፍያ በነጻ እናደርሳለን! (Free Delivery Across Addis Ababa)
-</div>
-
 <!-- Hero Section -->
 <section class="hero">
     <div class="hero-text">
@@ -701,6 +696,10 @@ footer {
 <section id="about" class="about-section">
     <div class="about-grid">
         <div class="about-text">
+            <!-- Free Delivery Banner -->
+<div class="delivery-banner">
+    🚚 የላቀ አገልግሎት — ማንኛውንም እቃ ሲያዙ ያሉበት ድረስ ያለምንም ተጨማሪ ክፍያ በነጻ እናደርሳለን! (Free Delivery Across Addis Ababa)
+</div>
             <h2>ስለ ማርክ ፈርኒቸር (About Us)</h2>
             <p>ማርክ ፈርኒቸር በፈርኒቸር ማምረት እና በውስጥ ክፍል ማስዋብ (Interior Design) ዘርፍ ለረጅም ዓመታት ያካበተውን ልምድ በመጠቀም፣ ለደንበኞቹ እጅግ ዘመናዊ እና ጥራት ያላቸውን ምርቶች ያቀርባል። ዘመናዊ ማሽነሪዎችን በመጠቀምና እያንዳንዱን ዝርዝር ነገር በጥንቃቄ በመስራት የቤትዎ ግርማ ሞገስ እንድናድግ እናደርጋለን።</p>
             <p>የእኛ ልዩ መለያ ደንበኞቻችን የሚፈልጉትን ዲዛይን ሙሉ በሙሉ በ 3D እይታ አውጥተን፣ ከመመረቱ በፊት በትክክል እንዴት እንደሚያምር ማሳየት መቻላችን ነው።</p>
@@ -751,15 +750,6 @@ footer {
     </div>
 </section>
 
-<!-- NEW: Video Showcase Section -->
-<section class="video-section">
-    <h2>የስራዎቻችን አጫጭር ቪዲዮዎች (Our Craftsmanship)</h2>
-    <p>በዎርክሾፓችን ውስጥ እቃዎች በጥንቃቄ እና በጥራት ሲመረቱ በቀጥታ ይመልከቱ</p>
-    <div class="video-container">
-        <div class="video-placeholder">
-            <a href="https://t.me/lanyisu1" target="_blank" style="color: white; text-decoration: none; display: flex; flex-direction: column; align-items: center;">
-                <div class="play-icon">▶</div>
-                <p style="font-weight: bold; font-size: 18px;">ሙሉ የስራ ቪዲዮዎችን በቴሌግራም ለማየት ይጫኑ</p>
             </a>
         </div>
     </div>
